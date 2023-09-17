@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.country-capital-container {
+    background-color: #f8fafc;
+    border-radius: 20px;
+    width: 96%;
+    padding: 14px;
+}
+
+.country-container {
+display: flex;
+}
+
+.select-box {
+width: 35%;
+margin-right: 10px;
+height: 50px;
+font-weight: bold;
+}
+
+.capital-name {
+    font-weight: bold;
+    font-size: 20px;
+}
